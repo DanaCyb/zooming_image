@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "-": "^0.0.1",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-if": "^3.0.0",
     "gulp-minify": "^3.1.0",
     "gulp-sass": "^5.1.0",
@@ -302,5 +302,8 @@
   "bugs": {
     "url": "https://github.com/DanaCyb/zooming_image/issues"
   },
-  "homepage": "https://github.com/DanaCyb/zooming_image#readme"
+  "homepage": "https://github.com/DanaCyb/zooming_image#readme",
+  "resolutions": {
+      "graceful-fs": "^4.2.4"
+    }
 }
